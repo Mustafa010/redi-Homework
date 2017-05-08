@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redi-Homework.iml" filepath="$PROJECT_DIR$/.idea/modules/redi-Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redi-Homework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/redi-Homework_main.iml" group="redi-Homework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redi-Homework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/redi-Homework_test.iml" group="redi-Homework" />
+    </modules>
+  </component>
+</project>
